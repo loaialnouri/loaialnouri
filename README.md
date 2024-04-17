@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**loaialnouri/loaialnouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Loai and I'm using this space to showcase some of the projects I have and am working on! 📚
 
-Here are some ideas to get you started:
+🎓 MSc in Data Science @ Queen Mary University of London (QMUL)
+🧬 2+ Years Industry Experience in Product Analytics Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on productionising a Consumer Goods Benchmarking Tool
+🌱 Growing my skillset in GENAI & Cloud Deployments
+🗣️ Ask me about Data Science, Fashion or Photography
+
+Join me on my growth journey😎
+
+
